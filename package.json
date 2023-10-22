@@ -1,0 +1,22 @@
+{
+  "name": "Telegram_launcher",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "GPL-3.0-only",
+  "scripts": {
+    "start": "npx tsc && node app.js"
+  },
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "telegraf": "^4.14.0",
+    "telegram-keyboard": "^2.3.2",
+    "typescript": "^5.2.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.8.7"
+  },
+  "description": "Telegram applications launcer",
+  "repository": "https://github.com/GhoulYev/telegram_applications_launcher/tree/main",
+  "author": "Ghoulyev",
+  "private": null
+}
