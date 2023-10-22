@@ -14,7 +14,7 @@ In Telegram you need to create a bot via ```BotFather``` and insert the token in
 
 ```const bot = new Telegraf("TOKEN");```
 
-In the pointers directory you need to transfer the necessary links to applications.
+In the pointers directory, you must delete the ``example.lnk`` file and move the necessary application references.
 
 Then type in the terminal:
 
