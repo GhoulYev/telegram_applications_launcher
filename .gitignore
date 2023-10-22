@@ -1,3 +1,7 @@
+#users
+*.js
+yarn.lock
+
 # Logs
 logs
 *.log
